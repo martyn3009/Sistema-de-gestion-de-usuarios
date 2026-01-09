@@ -60,7 +60,7 @@ README.md                  # Documento de instrucciones
    ```
 2. Ejecuta el programa:
    ```bash
-   python Sistema de gestión de Usuario.py
+   python Sistema de gestión de Usuarios.py
    ```
 3. El sistema creará automáticamente:
    - `usuarios.db` (base de datos SQLite).
