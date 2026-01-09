@@ -55,7 +55,7 @@ README.md                  # Documento de instrucciones
 ### Pasos
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/martyn3009/Sistema-de-gestion-de-usuarios/blob/main/Sistema%20de%20gesti%C3%B3n%20de%20Usuarios.py
+   git clone https://github.com/martyn3009/Sistema-de-gestion-de-usuarios
    cd sistema-usuarios
    ```
 2. Ejecuta el programa:
